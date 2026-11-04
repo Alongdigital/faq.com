@@ -10,3 +10,13 @@ flex-direction: column;
 background-color: grey;
 }
 .workload {
+  align-items: center;
+  justify-content: center;
+  border: solid red;
+}
+.v-shape {
+  align-items: center;
+  justify-content: center;
+  background-color: linear-gradient(110deg,grey blue);
+  color: #ccc;
+}
