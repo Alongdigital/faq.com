@@ -1,1 +1,1 @@
-document.getElementById("workflow").href=assets.file
+document.getElementById("workflow").href=assets.file;
