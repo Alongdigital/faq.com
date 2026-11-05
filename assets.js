@@ -1,3 +1,3 @@
-const assests = {
+const assets = {
   file: "pay.html"
 };
